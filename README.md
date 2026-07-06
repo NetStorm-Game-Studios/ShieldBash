@@ -1,3 +1,4 @@
 # ShieldBash
 ShieldBash is an advanced private anticheat detection powered by the GrimeyX framework
-\n***Notice: This Repository Has Redacted Code To Maintain Anticheat Integrity***
+
+***Notice: This Repository Has Redacted Code To Maintain Anticheat Integrity***
